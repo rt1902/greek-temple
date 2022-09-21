@@ -1,0 +1,17 @@
+﻿  main_file.cpp
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(29,17): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(47,44): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(48,43): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(56,41): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(58,44): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(59,44): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(78,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(79,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(83,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(84,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(85,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(86,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(88,29): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(129,33): warning C4305: "argument": obcięcie z "double" do "GLclampf"
+E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\main_file.cpp(309,25): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  pl_szkielet_03_win.vcxproj -> E:\Studia\Przedmioty\Semestr4\Grafika komputerowa i wizualizacja\Projrkty\greek-temple\pl_szkielet_03_win\Debug\pl_szkielet_03_win.exe
